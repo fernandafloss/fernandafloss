@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fernandafloss
+- 🌱 I’m currently learning Java
+- 📫 How to reach me fernandaflosss@gmail.com
